@@ -27,7 +27,7 @@ Desarrollar una solución de Business Intelligence que permita analizar y compar
 
 Para consultar la definición completa del problema, stakeholders, objetivos, preguntas de negocio e hipótesis:
 
-➡️ [Ver definición completa del proyecto](docs/definicion_proyecto.md)
+➡️ [Ver definición completa del proyecto](definicion_proyecto.md)
 
 ---
 
@@ -41,7 +41,7 @@ El proyecto busca responder, entre otras, las siguientes preguntas:
 - ¿Qué compañías presentan mayores niveles de siniestralidad y eficiencia de gastos?
 - ¿Cómo se comparan las aseguradoras en solvencia, fortaleza financiera y composición de productos?
 
-➡️ [Consultar las 10 preguntas de negocio e hipótesis](docs/definicion_proyecto.md)
+➡️ [Consultar las 10 preguntas de negocio e hipótesis](definicion_proyecto.md)
 
 ---
 
