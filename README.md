@@ -27,6 +27,8 @@ Desarrollar una solución de Business Intelligence que permita analizar y compar
 
 Para consultar la definición completa del problema, stakeholders, objetivos, preguntas de negocio e hipótesis:
 
+➡️ [Ver definición completa del proyecto](docs/definicion_proyecto.md)
+
 ---
 
 ## ❓ Preguntas clave del análisis
@@ -38,6 +40,8 @@ El proyecto busca responder, entre otras, las siguientes preguntas:
 - ¿Existe una relación entre tamaño de mercado, rentabilidad y resultado técnico?
 - ¿Qué compañías presentan mayores niveles de siniestralidad y eficiencia de gastos?
 - ¿Cómo se comparan las aseguradoras en solvencia, fortaleza financiera y composición de productos?
+
+➡️ [Consultar las 10 preguntas de negocio e hipótesis](docs/definicion_proyecto.md)
 
 ---
 
@@ -52,6 +56,8 @@ El dataset contiene información trimestral sintética de 12 compañías fictici
 - 12 períodos trimestrales.
 - Variables financieras, comerciales, operacionales y de solvencia.
 - Datos creados exclusivamente con fines educativos y de portafolio.
+
+📄 [Ver dataset original](data/raw/mercado_asegurador_vida_chile_sintetico.csv)
 
 ---
 
