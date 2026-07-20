@@ -68,6 +68,7 @@ Desarrollar una solución de Business Intelligence que permita analizar y compar
  - ¿Qué compañías muestran mayor crecimiento de asegurados y pólizas, y cómo se relacionan los nuevos asegurados y las cancelaciones con ese crecimiento?
 
 **Hipótesis iniciales**
+
 Antes de analizar los datos estableceremos algunas hipótesis.
 H1: Las compañías con mayor participación de mercado no necesariamente presentan los mejores niveles de rentabilidad. 
 H2: Un mayor nivel de siniestralidad está asociado con un menor resultado técnico, manteniendo constantes los demás factores. 
