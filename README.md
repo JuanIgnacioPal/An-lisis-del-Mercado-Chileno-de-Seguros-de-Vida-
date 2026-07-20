@@ -93,14 +93,6 @@ El dataset contiene información trimestral sintética de 12 compañías fictici
 
 ## 🗂️ Estructura actual del repositorio
 
-analisis-mercado-seguros-vida-chile/
-│
-├── README.md
-│
-├── data/
-│   └── raw/
-│       └── mercado_asegurador_vida_chile_sintetico.csv
-│
-└── docs/
-    └── definicion_proyecto.md
+<img width="381" height="209" alt="Estructura del repositorio" src="https://github.com/user-attachments/assets/02103da0-fb2d-4f85-b3d9-1998cff17ed9" />
+
 
