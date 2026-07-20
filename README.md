@@ -27,7 +27,7 @@ Desarrollar una solución de Business Intelligence que permita analizar y compar
 
 Para consultar la definición completa del problema, stakeholders, objetivos, preguntas de negocio e hipótesis:
 
-➡️ [Ver definición completa del proyecto](definicion_proyecto.md)
+➡️ [Ver definición completa del proyecto](docs/definicion_proyecto.md)
 
 ---
 
@@ -41,7 +41,7 @@ El proyecto busca responder, entre otras, las siguientes preguntas:
 - ¿Qué compañías presentan mayores niveles de siniestralidad y eficiencia de gastos?
 - ¿Cómo se comparan las aseguradoras en solvencia, fortaleza financiera y composición de productos?
 
-➡️ [Consultar las 10 preguntas de negocio e hipótesis](definicion_proyecto.md)
+➡️ [Consultar las 10 preguntas de negocio e hipótesis](docs/definicion_proyecto.md)
 
 ---
 
@@ -57,7 +57,7 @@ El dataset contiene información trimestral sintética de 12 compañías fictici
 - Variables financieras, comerciales, operacionales y de solvencia.
 - Datos creados exclusivamente con fines educativos y de portafolio.
 
-📄 [Ver dataset original](data/raw/mercado_asegurador_vida_chile_sintetico.csv)
+📄 [Ver dataset original](datos/raw/mercado_asegurador_vida_chile_sintetico)
 
 ---
 
@@ -94,6 +94,3 @@ El dataset contiene información trimestral sintética de 12 compañías fictici
 ## 🗂️ Estructura actual del repositorio
 
 <img width="481" height="224" alt="image" src="https://github.com/user-attachments/assets/7421c5e2-8d99-4375-bb9f-8376f9152771" />
-
-
-
