@@ -32,16 +32,16 @@ Secundarios:
 
 ### **🎯Objetivo general**
 
-Desarrollar una solución de Business Intelligence que permita analizar y comparar el desempeño competitivo, financiero y operacional de compañías ficticias del mercado chileno de seguros de vida durante el período 2023-2025, identificando tendencias y diferencias relevantes que puedan apoyar la toma de decisiones estratégicas.
+- Desarrollar una solución de Business Intelligence que permita analizar y comparar el desempeño competitivo, financiero y operacional de compañías ficticias del mercado chileno de seguros de vida durante el período 2023-2025, identificando tendencias y diferencias relevantes que puedan apoyar la toma de decisiones estratégicas.
 
 ### **🎯Objetivos específicos**
 
-Analizar la evolución de la prima directa del mercado y de cada compañía para identificar tendencias de crecimiento o contracción.
-Evaluar la evolución de la participación de mercado para detectar compañías que ganan o pierden posición competitiva.
-Comparar indicadores de desempeño financiero como resultado técnico, resultado neto y ROE entre compañías y períodos.
-Analizar la siniestralidad y los gastos administrativos para identificar posibles diferencias de eficiencia entre aseguradoras.
-Evaluar indicadores simplificados de solvencia y capital para identificar diferencias en la fortaleza financiera de las compañías.
-Analizar la composición de las primas y la evolución de la cartera para identificar qué productos y segmentos impulsan el desempeño de cada compañía.
+- Analizar la evolución de la prima directa del mercado y de cada compañía para identificar tendencias de crecimiento o contracción.
+- Evaluar la evolución de la participación de mercado para detectar compañías que ganan o pierden posición competitiva.
+- Comparar indicadores de desempeño financiero como resultado técnico, resultado neto y ROE entre compañías y períodos.
+- Analizar la siniestralidad y los gastos administrativos para identificar posibles diferencias de eficiencia entre aseguradoras.
+- Evaluar indicadores simplificados de solvencia y capital para identificar diferencias en la fortaleza financiera de las compañías.
+- Analizar la composición de las primas y la evolución de la cartera para identificar qué productos y segmentos impulsan el desempeño de cada compañía.
 
 ### **❓Preguntas de negocio**
 
