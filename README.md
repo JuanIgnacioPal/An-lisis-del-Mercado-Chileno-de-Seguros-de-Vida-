@@ -93,6 +93,7 @@ El dataset contiene información trimestral sintética de 12 compañías fictici
 
 ## 🗂️ Estructura actual del repositorio
 
-<img width="381" height="209" alt="Estructura del repositorio" src="https://github.com/user-attachments/assets/02103da0-fb2d-4f85-b3d9-1998cff17ed9" />
+<img width="481" height="224" alt="image" src="https://github.com/user-attachments/assets/7421c5e2-8d99-4375-bb9f-8376f9152771" />
+
 
 
